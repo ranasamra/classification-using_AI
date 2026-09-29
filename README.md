@@ -39,7 +39,7 @@ AI-Classification/
 
 Clone the repository:
 
-git clone https://github.com/username/AI-Classification.git
+git clone https://github.com/ranasamra/AI-Classification.git
 cd AI-Classification
 
 
